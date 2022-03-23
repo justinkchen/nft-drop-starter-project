@@ -1,0 +1,19 @@
+{
+  "name": "Cassie Selfie #0",
+  "symbol": "CS",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "C1u6yS6aAm94VXkTRz6qGCENbHFhTSgtPTTvqGtJujDW",
+        "share": 100
+      }
+    ]
+  }
+}
